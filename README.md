@@ -3,7 +3,8 @@
 ### Name: Bharath K
 ### Register.NO: 212222110006
 ## Aim:
-    To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
+
+To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
 
 ## Problem Description
 ### Wumpus World
