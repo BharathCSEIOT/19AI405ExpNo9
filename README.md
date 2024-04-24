@@ -64,7 +64,9 @@ while(player):
         print("current location: ",wumpus[row][column],"\n")
     else:
         print("move denied")
+```
 
+```
     if wumpus[row][column]=="Smell" and arrow != False:
         arrow_choice=input("do you want to throw an arrow-->\npress y to throw\npress n to save your arrow\n")
         if arrow_choice == "y":
